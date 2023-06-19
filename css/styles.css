@@ -1,0 +1,15 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: blue;
+}
+.bullets{
+  font-size: 22px;
+  background-color: pink;
+  width: fit-content;
+}
+ul p{
+  font-weight: 800;
+  font-size: 32px;
+}
